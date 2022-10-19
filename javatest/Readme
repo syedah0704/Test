@@ -1,0 +1,3 @@
+add the opencsv-5.7.0.jar available in the folder to class path.
+update the input.csv with user details
+and run the CSVFileReader.java.
